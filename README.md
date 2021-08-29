@@ -1,3 +1,4 @@
 # MineSweeper
-It's my version of Minesweeper made for fun
-\n Whole code and resources are in "src" folder
+It's my version of Minesweeper made for fun.
+
+Whole code and resources are in "src" folder
