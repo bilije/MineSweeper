@@ -6,6 +6,11 @@ import javax.swing.JButton;
 
 public class BombButton extends JButton {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
 	boolean bomb = false;
 	boolean flagged = false;
 	int bombNumber;
