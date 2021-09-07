@@ -33,7 +33,7 @@ public class InfoPanel extends JPanel {
 		@Override
 		public void actionPerformed(final ActionEvent e) {
 			elapsedTime = elapsedTime+1000;
-			time = (elapsedTime/1000)%60;
+			time = (elapsedTime/1000);
 			try {
 				clockLabel.setText("Time: "+String.format("%03d", time));
 			}catch(IllegalFormatConversionException f) {
