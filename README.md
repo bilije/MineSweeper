@@ -1,2 +1,2 @@
 # MineSweeper
-It's my version of Minesweeper made for fun.
+It's my version of Minesweeper made in JAVA for fun.
